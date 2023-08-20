@@ -3,8 +3,8 @@
 
 
 Proyecto desarrollado con la finalidad de poner en practica las herramientas y conocimientos brindados en el programa Oracle Next Education.
-Conversor ONE es una aplicación de conversion de divisas y temperaturas; que le brinda al usuario una interfaz comoda e intuitiva para poder
-realizar conversiones ya sea de divisas o temperaturas de manera rapida y eficiente.
+Conversor ONE es una aplicación de conversión de divisas y temperaturas; que le brinda al usuario una interfaz cómoda e intuitiva para poder
+realizar conversiones ya sea de divisas o temperaturas de manera rápida y eficiente.
 
 ## :hammer:Funcionalidades del proyecto
 
